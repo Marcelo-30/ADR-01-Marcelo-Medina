@@ -22,12 +22,13 @@ El proyecto se desarrolla utilizando tecnologías vistas en clase y considerando
 
 Se decidió utilizar:
 
-Lenguaje C#
-ASP.NET Core MVC
-Entity Framework Core
-SQL Server
-Arquitectura MVC
-Git y GitHub para control de versiones
+- Lenguaje C#
+- ASP.NET Core MVC
+- Entity Framework Core
+- SQL Server
+- Arquitectura MVC
+- Git y GitHub para control de versiones
+
 
 ### ¿Por qué?
 
